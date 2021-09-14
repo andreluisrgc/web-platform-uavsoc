@@ -1,2 +1,4 @@
-alert("adaadfa");
-
+function teste()
+{
+  console.log('teste');
+}
